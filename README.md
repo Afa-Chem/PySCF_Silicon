@@ -6,5 +6,5 @@ Basic aspects of the electronic structure in a Si4 cluster are calculated. Orbit
 
 You can open the .xyz files with a viewer such as VMD (Visual Molecular Dynamics)
 
-
+![plot](./orbitals.jpeg)
 
